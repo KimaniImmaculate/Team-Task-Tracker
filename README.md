@@ -6,7 +6,7 @@ Built with **HTML, CSS, and Vanilla JavaScript**, this app allows you to **add, 
 
 ## **Live Demo**
 View the live app here:  
-[**Open Team Task Tracker**](YOUR_GITHUB_PAGES_LINK_HERE)  
+[**Open Team Task Tracker**](https://kimaniimmaculate.github.io/Team-Task-Tracker/)  
 
 
 ## **Features**
